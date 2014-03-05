@@ -16,15 +16,18 @@ Provides: ruby(abi) = 1.9
 Provides: ruby-irb
 Provides: ruby-rdoc
 Provides: ruby-libs
+Provides: ruby(ruby-devel)
 Provides: ruby-devel
 Provides: ruby(rubygems)
 Provides: rubygems
+Provides: ruby(rubygem-rake)
 Obsoletes: ruby
 Obsoletes: ruby-libs
 Obsoletes: ruby-irb
 Obsoletes: ruby-rdoc
 Obsoletes: ruby-devel
 Obsoletes: rubygems
+Obsoletes: rubygem-rake
 
 %description
 Ruby is the interpreted scripting language for quick and easy
